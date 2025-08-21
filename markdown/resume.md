@@ -1,100 +1,65 @@
-Johnny Coder
-============
+# Rocco Davino
 
-----
+------------------------------------------------------    -------------------------------------------------------------------------
+jasonroc19@gmail.com                                       🔗 [linkedin.com/in/roccodavino](https://www.linkedin.com/in/roccodavino)
+(475) 234-9996                                                                   💻 [github.com/rocjay1](https://github.com/rocjay1)
+------------------------------------------------------    -------------------------------------------------------------------------
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+## Professional Summary
 
-----
+Systems & Cloud Infrastructure Engineer with 3+ years of IT experience delivering secure, automated, and scalable infrastructure solutions. Skilled in **Azure, Terraform, PowerShell, Git, Docker, and CI/CD pipelines**. Strong track record modernizing systems, improving compliance, and enabling DevOps practices to drive reliability and efficiency.
 
-Education
----------
+---
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+## Core Skills
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+- **Cloud Platforms:** Azure  
+- **Infrastructure as Code:** Terraform  
+- **Version Control:** Git  
+- **Automation & Scripting:** PowerShell, Python, Bash  
+- **CI/CD:** GitLab CI/CD, GitHub Actions  
+- **Containers:** Docker, Docker Compose  
+- **Systems Administration:** Windows Server (AD, Group Policy), Citrix  
+- **Monitoring & Observability:** Splunk, Azure Monitor, uberAgent  
+- **Security & Compliance:** Microsoft Defender for Endpoint, Azure Policy  
+- **Linux Proficiency:** WSL, containerized development environments  
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+---
 
-    *Minor: Awesomeology*
+## Professional Experience
 
-Experience
-----------
+**Epic – Madison, WI**
 
-**Your Most Recent Work Experience:**
+*Windows Engineer (Cloud Infrastructure & Automation)* | Oct 2023 – Present
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+- **Standardized Azure infrastructure** across multiple global offices by migrating file/print servers into **Terraform-managed IaC**. Created a **Terraform module to streamline VM backups and backup logging**, improving resilience and compliance posture.  
+- **Enhanced security and governance** by pulling storage accounts for *welearn.epic.com* into Terraform, migrating them to private networking with **Azure Private Endpoints**. Fronted accounts with **Azure Front Door** (*cdn.epic.com*), eliminating unnecessary public exposure.  
+- **Modernized application delivery** by implementing a **GitLab CI/CD pipeline** for Chocolatey packages. Built the **Windows container Docker image** used in pipelines, replacing manual deployments with automated, version-controlled workflows.  
+- **Improved developer productivity** by helping set up a **Docker Compose-based PHP/NGINX environment** in WSL, simplifying local dev/test setup.  
+- **Closed a critical compliance gap** by onboarding **Citrix PVS ephemeral VMs** into Microsoft Defender for Endpoint, aligning with new enterprise security standards.  
+- **Engineered a PowerShell module** integrating with **Azure Key Vault** for secrets management, cutting deployment times by ~2 minutes per release and eliminating recurring timeouts.  
+- **Deployed Citrix uberAgent monitoring** across two environments, enabling proactive latency troubleshooting and software licensing audits that informed cost optimization strategies.  
 
-* First item
+*Client Systems Engineer* | Jan 2022 – Oct 2023
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+- **Authored secure reference architecture** for Epic’s DMZ environments, accelerating client migrations while meeting rigorous compliance standards.  
+- **Streamlined large-scale data migrations** during M&A activity by building a **multi-threaded PowerShell blob migration tool**, reducing downtime and enabling smoother integrations.  
+- Served as a trusted advisor to **10 enterprise clients**, guiding system architecture, cloud adoption, and infrastructure strategy *(on-prem and cloud)*.  
 
-**That Other Job You Had**
+**University of Illinois – Urbana-Champaign**
 
-Also with a short description.
+*Graduate Teaching & Research Assistant (Math)* | Aug 2019 – Dec 2021
 
-Technical Experience
---------------------
+---
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+## Education
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+- **University of Illinois Urbana-Champaign** – PhD (incomplete), Mathematics  
+- **Wesleyan University** – M.A. & B.A. in Mathematics  
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+---
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+## Certifications
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
-
-----
-
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+- **Microsoft Certified: Azure Administrator (AZ-104)** (Planned 2025)  
+- **HashiCorp Certified: Terraform Associate** (Planned 2025)
