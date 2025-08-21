@@ -4,4 +4,4 @@ description: 'Build a document using texlive'
 runs:
   using: 'docker'
   image: 'docker://ghcr.io/rocjay1/pandoc_resume_rdavino:master'
-  entrypoint: '/entrypoint.sh'
+  entrypoint: '/action_entrypoint.sh'
