@@ -1,8 +1,9 @@
 # Rocco Davino
 
-Madison, WI • ✉️ [jasonroc19@gmail.com](mailto:jasonroc19@gmail.com) • 🔗 [linkedin.com/in/roccodavino](https://www.linkedin.com/in/roccodavino) • 💻 [github.com/rocjay1](https://github.com/rocjay1)
-
----
+------------------------------------------------------    -------------------------------------------------------------------------
+jasonroc19@gmail.com                                       🔗 [linkedin.com/in/roccodavino](https://www.linkedin.com/in/roccodavino)
+(475) 234-9996                                                                   💻 [github.com/rocjay1](https://github.com/rocjay1)
+------------------------------------------------------    -------------------------------------------------------------------------
 
 ## Professional Summary
 
